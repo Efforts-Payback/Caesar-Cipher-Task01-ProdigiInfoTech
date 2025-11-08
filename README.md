@@ -12,6 +12,6 @@ It implements the **Caesar Cipher** algorithm using Python, allowing users to pe
 
 Enter message: Hello World <br>
 Enter shift value: 3 <br>
-"--------------------------------"
+_______________________________ <br>
 Encrypted message: Khoor Zruog <br>
 Decrypted message: Hello World <br>
