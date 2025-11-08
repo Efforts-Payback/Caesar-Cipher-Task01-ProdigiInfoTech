@@ -9,8 +9,9 @@ It implements the **Caesar Cipher** algorithm using Python, allowing users to pe
 - Decryption reverses the shift to restore the original text.
 
 ## ⚙️ Example
+
 Enter message: Hello World <br>
 Enter shift value: 3 <br>
--------------------------------
+"--------------------------------"
 Encrypted message: Khoor Zruog <br>
 Decrypted message: Hello World <br>
